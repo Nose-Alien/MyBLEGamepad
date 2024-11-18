@@ -78,7 +78,7 @@
     * components：组件代码
     * main：该项目源码
     * pcb：
-        * .epro文件：力创EDA专业版工程文件。
+        * .epro文件：立创EDA专业版工程文件。
         * .pdf文件：eda导出的pdf，方便查阅。
     * prebuild：该项目预先编译好的bin文件，可以直接烧录，注意我用的芯片模组是：ESP32-S3-WROOM-1-N8R2，其他模组可能要自己修改编译一下了。
 
